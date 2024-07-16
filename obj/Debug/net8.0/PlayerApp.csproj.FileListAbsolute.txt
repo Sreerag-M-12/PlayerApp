@@ -1,0 +1,14 @@
+C:\Users\sreerag.babu\source\repos\PlayerApp\bin\Debug\net8.0\PlayerApp.exe
+C:\Users\sreerag.babu\source\repos\PlayerApp\bin\Debug\net8.0\PlayerApp.deps.json
+C:\Users\sreerag.babu\source\repos\PlayerApp\bin\Debug\net8.0\PlayerApp.runtimeconfig.json
+C:\Users\sreerag.babu\source\repos\PlayerApp\bin\Debug\net8.0\PlayerApp.dll
+C:\Users\sreerag.babu\source\repos\PlayerApp\bin\Debug\net8.0\PlayerApp.pdb
+C:\Users\sreerag.babu\source\repos\PlayerApp\obj\Debug\net8.0\PlayerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreerag.babu\source\repos\PlayerApp\obj\Debug\net8.0\PlayerApp.AssemblyInfoInputs.cache
+C:\Users\sreerag.babu\source\repos\PlayerApp\obj\Debug\net8.0\PlayerApp.AssemblyInfo.cs
+C:\Users\sreerag.babu\source\repos\PlayerApp\obj\Debug\net8.0\PlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\sreerag.babu\source\repos\PlayerApp\obj\Debug\net8.0\PlayerApp.dll
+C:\Users\sreerag.babu\source\repos\PlayerApp\obj\Debug\net8.0\refint\PlayerApp.dll
+C:\Users\sreerag.babu\source\repos\PlayerApp\obj\Debug\net8.0\PlayerApp.pdb
+C:\Users\sreerag.babu\source\repos\PlayerApp\obj\Debug\net8.0\PlayerApp.genruntimeconfig.cache
+C:\Users\sreerag.babu\source\repos\PlayerApp\obj\Debug\net8.0\ref\PlayerApp.dll
